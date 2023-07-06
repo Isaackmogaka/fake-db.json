@@ -3,21 +3,21 @@
     {
       "id": 1,
       "name": "Willian Onana",
-      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "image": "",
       "Services": "Oil/oil filter changed",
       "Location": "Mombasa"
     },
     {
       "id": 2,
       "name": "Peter Brian",
-      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "image": "",
       "Services": "Wiper blades replacement",
       "Location":"Kisumu"
     },
     {
       "id": 3,
       "name": "Isaack Mogaka",
-      "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
+      "image": "",
       "Services":"Wheels aligned/balanced" ,
       "Location": "Kitale"
       
@@ -25,14 +25,14 @@
     {
       "id": 4,
       "name": "Gilbert Owino",
-      "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
+      "image": "",
       "Services":"Battery replacement",
       "Location": "Eldoret"
     },
     {
       "id": 5,
       "name": "Fred Odhiambo",
-      "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
+      "image": "",
       "Services": "Brake work",
       "Location": "Nakuru"
     }
