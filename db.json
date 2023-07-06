@@ -2,39 +2,21 @@
   "Mechanics": [
     {
       "id": 1,
-      "name": "Willian Onana",
-      "image": "",
-      "Services": "Oil/oil filter changed",
-      "Location": "Mombasa"
+      "name": "John Smith",
+      "area": "Remote Area 1",
+      "skills": ["Engine Repair", "Brake System", "Electrical"]
     },
     {
       "id": 2,
-      "name": "Peter Brian",
-      "image": "",
-      "Services": "Wiper blades replacement",
-      "Location":"Kisumu"
+      "name": "Emma Johnson",
+      "area": "Remote Area 2",
+      "skills": ["Tire Service", "Suspension", "Air Conditioning"]
     },
     {
       "id": 3,
-      "name": "Isaack Mogaka",
-      "image": "",
-      "Services":"Wheels aligned/balanced" ,
-      "Location": "Kitale"
-      
-    },
-    {
-      "id": 4,
-      "name": "Gilbert Owino",
-      "image": "",
-      "Services":"Battery replacement",
-      "Location": "Eldoret"
-    },
-    {
-      "id": 5,
-      "name": "Fred Odhiambo",
-      "image": "",
-      "Services": "Brake work",
-      "Location": "Nakuru"
+      "name": "Michael Brown",
+      "area": "Remote Area 1",
+      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
     }
   ]
  }
