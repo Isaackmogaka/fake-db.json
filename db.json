@@ -7,7 +7,8 @@
       "skills": [
         "Engine Repair",
         "Brake System",
-        "Electrical"
+        "Electrical",
+        "General Car Service"
       ]
     },
     {
@@ -17,7 +18,8 @@
       "skills": [
         "Tire Service",
         "Suspension",
-        "Air Conditioning"
+        "Air Conditioning",
+        "General Car Service"
       ]
     },
     {
@@ -25,7 +27,7 @@
       "name": "Michael Brown",
       "area": "KItale",
       "skills": [
-        "Oil Change",
+        "General Car Service",
         "Battery Replacement",
         "Transmission"
       ]
@@ -35,9 +37,9 @@
       "name": "Abdi Nadab",
       "area": "Mombasa",
       "skills": [
-        "Oil Change",
-        "Battery Replacement",
-        "Transmission"
+        "Replace spark plugs",
+        "Check and replace break pads",
+        "General Car Service"
       ]
     },
     {
@@ -45,9 +47,9 @@
       "name": "Wambua Kioko",
       "area": "Machakos",
       "skills": [
-        "Oil Change",
+        "New tire replacement",
         "Battery Replacement",
-        "Transmission"
+        "General Car Service"
       ]
     },
     {
@@ -56,8 +58,9 @@
       "area": "Eldoret",
       "skills": [
         "Oil Change",
-        "Battery Replacement",
-        "Transmission"
+        "Engine Tune up",
+        "General Car Service"
+        
       ]
     },
     {
@@ -65,9 +68,9 @@
       "name": "Peter Brian",
       "area": "Nakuru",
       "skills": [
-        "Oil Change",
-        "Battery Replacement",
-        "Transmission"
+        "Brake Work",
+        "Wiper replacement",
+        "General Car Service"
       ]
     },
     {
@@ -75,9 +78,9 @@
       "name": "Mogaka Rioba",
       "area": "Kisii",
       "skills": [
-        "Oil Change",
-        "Battery Replacement",
-        "Transmission"
+        "Antifreeze added",
+        "General Car Service",
+        "Windscreen management"
       ]
     },
     {
@@ -87,7 +90,7 @@
       "skills": [
         "Oil Change",
         "Battery Replacement",
-        "Transmission"
+        "General Car Service"
       ]
     },
     {
@@ -95,8 +98,8 @@
       "name": "Isaack Stuart",
       "area": "Nyeri",
       "skills": [
-        "Oil Change",
-        "Battery Replacement",
+        "General Service",
+        "Brake work",
         "Transmission"
       ]
     },
@@ -106,7 +109,7 @@
       "area": "Naivasha",
       "skills": [
         "Oil Change",
-        "Battery Replacement",
+        "General Car Service",
         "Transmission"
       ]
     },
@@ -115,9 +118,9 @@
       "name": "Meshack Rhyne",
       "area": "Gilgil",
       "skills": [
-        "Oil Change",
+        "General Car Service",
         "Battery Replacement",
-        "Transmission"
+        "Brake fluids"
       ]
     },
     {
@@ -127,7 +130,7 @@
       "skills": [
         "Oil Change",
         "Battery Replacement",
-        "Transmission"
+        "General Car Service"
       ]
     },
     {
@@ -135,14 +138,9 @@
       "name": "Michael Mulinge",
       "area": "Kitui",
       "skills": [
-        "Oil Change",
-        "Battery Replacement",
+        "General Car Service",
         "Transmission"
       ]
-    },
-    {
-      "mechanicId": 10,
-      "id": 15
     }
   ]
 }
